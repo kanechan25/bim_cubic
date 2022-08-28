@@ -19,7 +19,7 @@
 
 ---
 
-<img src="https://github.com/kanechan25/bim_cubic/blob/main/workflow.png">
+<img src="https://github.com/kanechan25/bim_cubic/blob/main/workflow.PNG">
 
 - Hoping it support you a bit in your work!
 
