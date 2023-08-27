@@ -1,4 +1,4 @@
-# <img src="https://github.com/kanechan25/kanechan25/blob/main/img/interface/logo_ce2dev.png" width="30px"> Hi, I'm Khoa Tran <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> BIM Technologist - Software Developer
+# <img src="https://github.com/kanechan25/kanechan25/blob/main/img/interface/logo_ce2dev.png" width="30px"> Hi, I'm Khoa Tran <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> A Software Developer
 
 # BIM CUBIC
 
@@ -42,4 +42,4 @@
 - kt.itengineer@gmail.com
 - [Reading for funny (Vietnamese)](https://ngoatv.blogspot.com/)
 
-### <img src="https://github.com/kanechan25/kanechan25/blob/main/img/interface/logo_ce2dev.png" width="25px"> © 2022 kanechan25
+### <img src="https://github.com/kanechan25/kanechan25/blob/main/img/interface/logo_ce2dev.png" width="25px"> © 2019 kanechan25
